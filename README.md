@@ -65,9 +65,9 @@ Here's a list of the technologies I'm proficient in.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-MR&show_icons=true&theme=onedark" alt="Sachin-MR's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin-MR05&show_icons=true&theme=onedark" alt="Sachin-MR's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-MR&layout=compact&langs_count=6&theme=onedark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-MR05&layout=compact&langs_count=6&theme=onedark" alt="Top Languages" />
 </p>
 
 ---
