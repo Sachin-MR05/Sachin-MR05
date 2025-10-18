@@ -58,7 +58,7 @@ Here's a list of the technologies I'm proficient in.
 **Disease Prediction using Machine Learning**
 - **Description:** A machine learning model that predicts diseases based on patient symptoms.
 - **Technologies:** Python, Scikit-learn, Pandas, Flask
-- **Live Demo/Repository:** (Link to your live demo or project repo here)
+- **Live Demo/Repository:** 
 
 ---
 
